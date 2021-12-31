@@ -1,0 +1,13 @@
+name: CRSS
+version: 0.1.0
+
+authors:
+  - Colin Key <colin.m.key@gmail.com>
+
+crystal: 1.2.2
+
+license: MIT
+
+targets:
+  CRSS:
+    main: src/crss.cr
