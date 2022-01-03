@@ -1,2 +1,3 @@
 require "spec"
-require "../src/rss-parser"
+require "../src/crss/builder"
+require "../src/crss/exceptions"
